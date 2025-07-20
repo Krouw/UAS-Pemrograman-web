@@ -1,0 +1,39 @@
+{
+  "attractions": [
+    {
+      "name": "Sapporo Snow Festival",
+      "description": "An annual festival held in Sapporo, featuring stunning ice sculptures and snow activities.",
+      "image": "images/sapporo_snow_festival.jpg",
+      "location": "Sapporo",
+      "link": "https://www.sapporosnowfestival.com"
+    },
+    {
+      "name": "Niseko Ski Resort",
+      "description": "A world-renowned ski resort known for its powder snow and beautiful landscapes.",
+      "image": "images/niseko_ski_resort.jpg",
+      "location": "Niseko",
+      "link": "https://www.niseko.ne.jp/en/"
+    },
+    {
+      "name": "Otaru Canal",
+      "description": "A picturesque canal lined with historic buildings and charming shops, perfect for a leisurely stroll.",
+      "image": "images/otaru_canal.jpg",
+      "location": "Otaru",
+      "link": "https://www.city.otaru.lg.jp/"
+    },
+    {
+      "name": "Shiretoko National Park",
+      "description": "A UNESCO World Heritage site known for its stunning natural beauty and diverse wildlife.",
+      "image": "images/shiretoko_national_park.jpg",
+      "location": "Shiretoko",
+      "link": "https://www.shiretoko.asia/"
+    },
+    {
+      "name": "Hakodate Night View",
+      "description": "Famous for its breathtaking night view from Mount Hakodate, considered one of the best in Japan.",
+      "image": "images/hakodate_night_view.jpg",
+      "location": "Hakodate",
+      "link": "https://www.hakodate.travel/"
+    }
+  ]
+}
